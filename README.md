@@ -26,6 +26,14 @@ This repository showcases certificates from various training programs, contests,
 
 ---
 
+## 4️⃣ **OKMD, AIAT: CAREER BOOTCAMP Writing Prompt**
+- **Organizers**: OKMD (Office of Knowledge Management and Development), AIAT (Artificial Intelligence Association of Thailand)  
+- **Details**:  
+  Attended the Writing Prompt Career Bootcamp, which emphasized creative and professional writing skills. Learned how to craft engaging content using AI tools and techniques. This program strengthened my ability to generate effective written communication for diverse audiences and purposes.
+
+
+---
+
 ## Goals and Applications
 - Apply the skills gained in structured cabling to IT and networking projects.
 - Leverage AI knowledge to innovate creative solutions and explore its application in art and design.
